@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_ExternalComponents", "_ExternalComponents\_ExternalComponents.csproj", "{8617F101-5C3D-49BC-8C4F-9B6BE798D32F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{286AFC70-F043-417E-AA68-ED0BF4B6D121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapDragon.Custom.Pap.WebService", "ScrapDragon.Custom.Pap.WebService\ScrapDragon.Custom.Pap.WebService.csproj", "{D5D62CD7-8BB4-4B83-8F3B-503D10123E0F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://dev-server:8080/tfs/scrap%20dragon
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = UI\\UI.csproj
+		SccProjectName1 = UI
+		SccLocalPath1 = UI
+		SccProjectUniqueName2 = ScrapDragon.Custom.Pap.WebService\\ScrapDragon.Custom.Pap.WebService.csproj
+		SccProjectName2 = ScrapDragon.Custom.Pap.WebService
+		SccLocalPath2 = ScrapDragon.Custom.Pap.WebService
+		SccProjectUniqueName3 = _ExternalComponents\\_ExternalComponents.csproj
+		SccProjectName3 = _ExternalComponents
+		SccLocalPath3 = _ExternalComponents
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8617F101-5C3D-49BC-8C4F-9B6BE798D32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8617F101-5C3D-49BC-8C4F-9B6BE798D32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8617F101-5C3D-49BC-8C4F-9B6BE798D32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8617F101-5C3D-49BC-8C4F-9B6BE798D32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286AFC70-F043-417E-AA68-ED0BF4B6D121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286AFC70-F043-417E-AA68-ED0BF4B6D121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286AFC70-F043-417E-AA68-ED0BF4B6D121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286AFC70-F043-417E-AA68-ED0BF4B6D121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D62CD7-8BB4-4B83-8F3B-503D10123E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D62CD7-8BB4-4B83-8F3B-503D10123E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D62CD7-8BB4-4B83-8F3B-503D10123E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D62CD7-8BB4-4B83-8F3B-503D10123E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

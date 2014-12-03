@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeviceConfiguration>
+
+    <ScaleRawReading>
+      <Reading>
+        <Value></Value>
+        <Date></Date>
+      </Reading>
+    </ScaleRawReading>
+
+    <DeviceProperties>
+      <DeviceProperty>
+        <Name>StoreWIFIName</Name>
+        <Value>1234</Value>
+      </DeviceProperty>
+      <DeviceProperty>
+        <Name>StoreWIFIPassword</Name>
+        <Value>pass</Value>
+      </DeviceProperty>
+      <DeviceProperty>
+        <Name>RowMin</Name>
+        <Value>601</Value>
+      </DeviceProperty>
+      <DeviceProperty>
+        <Name>RowMax</Name>
+        <Value>699</Value>
+      </DeviceProperty>
+    </DeviceProperties>
+    <DeviceID>Device1</DeviceID>
+
+  </DeviceConfiguration>
+  <UpdatedVins>
+    <MasterRowNum>600</MasterRowNum>
+    <Vins>
+      <Vin>
+        <VinId>1221564</VinId>
+        <RowNum>600</RowNum>
+        <Packid>dc58612e-7197-45c4-a3f6-9d49a064e936</Packid>
+        <UpdateDate>8/25/2014 4:55:09 PM</UpdateDate>
+      </Vin>
+      <Vin>
+        <VinId>846533</VinId>
+        <RowNum>601</RowNum>
+        <Packid>Guid</Packid>
+        <UpdateDate>8/25/2014 4:55:09 PM</UpdateDate>
+      </Vin>
+    </Vins>
+  </UpdatedVins>
+  <AvailablePacks>
+  </AvailablePacks>
+  <PackLists>
+  </PackLists>
+  <InventoryItems>
+  </InventoryItems>
+</Root>

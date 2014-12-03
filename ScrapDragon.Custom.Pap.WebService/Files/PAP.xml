@@ -1,0 +1,111 @@
+<Root>
+ <DeviceConfiguration>
+
+    <ScaleRawReading>
+      <Reading>
+        <Value></Value>
+        <Date></Date>
+      </Reading>
+    </ScaleRawReading>
+
+    <DeviceProperties>
+      <DeviceProperty>
+        <Name>StoreWIFIName</Name>
+        <Value>1234</Value>
+      </DeviceProperty>
+      <DeviceProperty>
+        <Name>StoreWIFIPassword</Name>
+        <Value>pass</Value>
+      </DeviceProperty>
+      <DeviceProperty>
+        <Name>RowMin</Name>
+        <Value>601</Value>
+      </DeviceProperty>
+      <DeviceProperty>
+        <Name>RowMax</Name>
+        <Value>699</Value>
+      </DeviceProperty>
+    </DeviceProperties>
+    <DeviceID>Device1</DeviceID>
+
+  </DeviceConfiguration>
+<YardId>D9B9691B-CCBB-49C7-B7F4-343975DD9F7E</YardId>
+<UserId>91560F2C-C390-45B3-B0DE-B64C2DA255C5</UserId>
+  <UpdatedVins>
+                 <MasterRowNum></MasterRowNum>
+    <Vins>
+      <Vin>
+        <VinId></VinId>
+        <RowNum></RowNum>
+        <Packid></Packid>
+        <UpdateDate></UpdateDate>
+      </Vin>
+    </Vins>
+  </UpdatedVins>
+  <Packs>
+    <Pack>
+      <Packid></Packid>
+      <GrossWeight></GrossWeight>
+      <TareWeight></TareWeight>
+      <ScaleGrossWeight></ScaleGrossWeight>
+      <ScaleTareWeight></ScaleTareWeight>
+      <PackNumber></PackNumber>
+      <PackComment></PackComment>
+      <UnitOfMeasure></UnitOfMeasure>
+      <DateCreated></DateCreated>
+      <DateClosed></DateClosed>
+      <Quantity></Quantity>
+      <CommodityType></CommodityType>
+      <Status></Status>
+      <InventoryId></InventoryId> 
+    
+    </Pack>
+  </Packs>
+         <PackLists>
+                 <PackList>
+                          <PackNumber></PackNumber>
+                          <ListName></ListName>
+                          <ContractId></ContractId>
+                           <PackListId></PackListId>
+                          <PackIDs>
+                            <Packid></Packid>
+                            <Packid></Packid>
+                            <Packid></Packid>
+                          </PackIDs>
+                 </PackList>
+         </PackLists>
+
+         <DeviceConfiguration></DeviceConfiguration>
+         <Locations>
+                 <Location>
+                          <LocationId></LocationId>
+                          <Name></Name>
+                 </Location>
+         </Locations>
+         <InventoryItems>
+                 <Item>
+                          <InventoryId></InventoryId>
+                          <PrintDescription></PrintDescription>
+                          <DefalutLocationId></DefalutLocationId>
+                 </Item>
+         </InventoryItems>
+
+        <AvailableContracts>
+           <Contract>
+                   <ContractId></ContractId>
+                   <CustomerName></Customer>
+                  <ContractDescription></ContractDescription>
+                   <CotnractNumber></CotractNumber>
+                   <IsTransfer></IsTransfer>
+                   <InventoryItems>
+                          <InvetnoryId></InventoryId>
+                          <InvetnoryId></InventoryId>
+                          <InvetnoryId></InventoryId>
+                          <InvetnoryId></InventoryId>
+                   </InventoryItems>
+          </Contract>
+         <AvailableContracts>
+
+                          
+      
+</Root>

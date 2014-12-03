@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="554df0a604ab4205a6cda98e7ba18807" Name="Diagram1" ZoomLevel="65">
+        <EntityTypeShape EntityType="Model.ContractHead" Width="1.5" PointX="12.75" PointY="52.5" />
+        <EntityTypeShape EntityType="Model.ContractItem" Width="1.5" PointX="15" PointY="55.875" />
+        <EntityTypeShape EntityType="Model.Customer" Width="1.5" PointX="10.5" PointY="43.625" />
+        <EntityTypeShape EntityType="Model.GeneralOption" Width="1.5" PointX="7.5" PointY="80.375" />
+        <EntityTypeShape EntityType="Model.Inventory" Width="1.5" PointX="7.5" PointY="53.5" />
+        <EntityTypeShape EntityType="Model.Pack" Width="1.5" PointX="17.75" PointY="54.25" />
+        <EntityTypeShape EntityType="Model.PackListHead" Width="1.5" PointX="15" PointY="60.5" />
+        <EntityTypeShape EntityType="Model.PackListItem" Width="1.5" PointX="23" PointY="59.75" />
+        <EntityTypeShape EntityType="Model.PackLog" Width="1.5" PointX="23" PointY="52" />
+        <EntityTypeShape EntityType="Model.TransferPackListHead" Width="1.5" PointX="23" PointY="56.375" />
+        <EntityTypeShape EntityType="Model.TransferPackListItem" Width="1.5" PointX="25.25" PointY="56.5" />
+        <EntityTypeShape EntityType="Model.TransferSentHead" Width="1.5" PointX="20.75" PointY="53.625" />
+        <EntityTypeShape EntityType="Model.TransferSentItem" Width="1.5" PointX="26" PointY="51.875" />
+        <EntityTypeShape EntityType="Model.UniqueNumber" Width="1.5" PointX="7.5" PointY="77.625" />
+        <EntityTypeShape EntityType="Model.UserDefinedList" Width="1.5" PointX="0.75" PointY="32.25" />
+        <EntityTypeShape EntityType="Model.UserDefinedListValue" Width="1.5" PointX="3" PointY="29.625" />
+        <EntityTypeShape EntityType="Model.Yard" Width="1.5" PointX="5.25" PointY="79.375" />
+        <AssociationConnector Association="Model.FK_ContractHead_Customer" />
+        <AssociationConnector Association="Model.FK_ContractHead_Customer1" />
+        <AssociationConnector Association="Model.FK_ContractHead_Customer3" />
+        <AssociationConnector Association="Model.FK_ContractHead_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_ContractHead_UserDefinedListValue1" />
+        <AssociationConnector Association="Model.FK_ContractHead_UserDefinedListValue2" />
+        <AssociationConnector Association="Model.FK_ContractHead_UserDefinedListValue3" />
+        <AssociationConnector Association="Model.FK_ContractHead_UserDefinedListValue4" />
+        <AssociationConnector Association="Model.FK_ContractHead_UserDefinedListValue5" />
+        <AssociationConnector Association="Model.FK_ContractHead_Yard" />
+        <AssociationConnector Association="Model.FK_ContractItem_ContractHead" />
+        <AssociationConnector Association="Model.FK_PackListHead_ContractHead" />
+        <AssociationConnector Association="Model.FK_ContractItem_Inventory" />
+        <AssociationConnector Association="Model.FK_PackListItem_ContractItem" />
+        <AssociationConnector Association="Model.FK_Customer_AccountManagerUdlvId_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Customer_AccountUdlvId_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Customer_ApUdlvId_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Customer_ArUdlvId_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Customer_BrokerUdlvId_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Customer_CurrencyUdlv" />
+        <AssociationConnector Association="Model.FK_Customer_Customer" />
+        <AssociationConnector Association="Model.FK_Customer_Customer1" />
+        <AssociationConnector Association="Model.FK_Customer_EyeColorUdlvId_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Customer_GenderUdlvId_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Customer_HairColorUdlv_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Customer_IdTypeUdlvId_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Customer_RaceUdlvId_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Customer_UserDefinedListValue_BuyTaxCodeUdlvId" />
+        <AssociationConnector Association="Model.FK_Customer_UserDefinedListValue_SellTaxCodeUdlvId" />
+        <AssociationConnector Association="Model.FK_Customer_Yard" />
+        <AssociationConnector Association="Model.FK_Customer_Yard1" />
+        <AssociationConnector Association="Model.FK_Pack_Customer" />
+        <AssociationConnector Association="Model.FK_TransferSentHead_Customer" />
+        <AssociationConnector Association="Model.FK_GeneralOption_Company" />
+        <AssociationConnector Association="Model.FK_Inventory_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Inventory_UserDefinedListValue1" />
+        <AssociationConnector Association="Model.FK_Inventory_UserDefinedListValue2" />
+        <AssociationConnector Association="Model.FK_Inventory_UserDefinedListValue3" />
+        <AssociationConnector Association="Model.FK_Inventory_UserDefinedListValue4" />
+        <AssociationConnector Association="Model.FK_Inventory_UserDefinedListValue5" />
+        <AssociationConnector Association="Model.FK_Inventory_UserDefinedListValue6" />
+        <AssociationConnector Association="Model.FK_Inventory_UserDefinedListValue7" />
+        <AssociationConnector Association="Model.FK_Inventory_UserDefinedListValue8" />
+        <AssociationConnector Association="Model.FK_Inventory_Yard" />
+        <AssociationConnector Association="Model.FK_Pack_Inventory" />
+        <AssociationConnector Association="Model.FK_PackLog_Inventory" />
+        <AssociationConnector Association="Model.FK_TransferSentItem_Inventory" />
+        <AssociationConnector Association="Model.FK_Pack_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_Pack_Yard" />
+        <AssociationConnector Association="Model.FK_PackListItem_Pack" />
+        <AssociationConnector Association="Model.FK_PackLog_Pack" />
+        <AssociationConnector Association="Model.FK_TransferPackListItem_Pack" />
+        <AssociationConnector Association="Model.FK_PackListItem_PackListHead" />
+        <AssociationConnector Association="Model.FK_TransferOutHead_PackListHead" />
+        <AssociationConnector Association="Model.FK_TransferPackListHead_TransferSentHead" />
+        <AssociationConnector Association="Model.FK_TransferPackListItem_TransferPackListItem" />
+        <AssociationConnector Association="Model.FK_TransferPackListItem_TransferPackListItem1" />
+        <AssociationConnector Association="Model.FK_TransferPackListItem_TransferSentItem" />
+        <AssociationConnector Association="Model.FK_TransferOutHead_Yard" />
+        <AssociationConnector Association="Model.FK_TransferOutHead_Yard1" />
+        <AssociationConnector Association="Model.FK_TransferOutItem_TransferOutHead" />
+        <AssociationConnector Association="Model.FK_TransferSentHead_UserDefinedListValue" />
+        <AssociationConnector Association="Model.FK_UniqueNumber_Yard" />
+        <AssociationConnector Association="Model.FK_UserDefinedListValue_UserDefinedList" />
+        <AssociationConnector Association="Model.FK_Company_CompanyTypeUdlv" />
+        <AssociationConnector Association="Model.FK_Company_Company" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

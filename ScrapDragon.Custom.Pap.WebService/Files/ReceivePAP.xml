@@ -1,0 +1,93 @@
+<Root>
+  <UpdatedVins>
+                 <MasterRowNum></MasterRowNum>
+    <Vins>
+      <Vin>
+        <VinId></VinId>
+        <RowNum></RowNum>
+        <Packid></Packid>
+        <UpdateDate></UpdateDate>
+      </Vin>
+    </Vins>
+  </UpdatedVins>
+  <Packs>
+    <Pack>
+      <Packid>073e6fa9-6eff-4d26-ada1-3895cb082e23</Packid>
+      <GrossWeight>125.0000</GrossWeight>
+      <TareWeight>5.0000</TareWeight>
+      <ScaleGrossWeight>125.0000</ScaleGrossWeight>
+      <ScaleTareWeight>5.0000</ScaleTareWeight>
+      <PackNumber>256</PackNumber>
+      <PackComment>#1 CU</PackComment>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>2014-09-09 14:08:19.870</DateCreated>
+      <DateClosed>2014-09-09 15:00:00.000</DateClosed>
+      <Quantity>0</Quantity>
+      <CommodityType>0</CommodityType>
+      <Status>0</Status>
+      <InventoryId>98E736D1-9DEF-47F2-B45E-00BB38BA355D</InventoryId>
+      <Cost>5.0000</Cost>
+    </Pack>
+    <Pack>
+      <Packid>ca26ac0f-e63a-45f9-8709-3bec8af35876</Packid>
+      <GrossWeight>155.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>160.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackNumber>257</PackNumber>
+      <PackComment>#2 CU</PackComment>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>2014-09-10 16:08:19.870</DateCreated>
+      <DateClosed>2014-09-10 16:08:20.000</DateClosed>
+      <Quantity>0</Quantity>
+      <CommodityType>0</CommodityType>
+      <Status>0</Status>
+      <InventoryId>DDF0067B-ED90-4040-8449-CD45AD7C2E3C</InventoryId>
+      <Cost>3.5000</Cost>
+    </Pack>
+  </Packs>
+         <PackLists>
+                 <PackList>
+                   <PackListId>b96a3ff5-21cf-43f5-b9c1-b644b2e37e05</PackListId>
+                          <PackListNumber>162</PackListNumber>
+                          <ListName>Test</ListName>
+                          <ContractId>19621BFE-81A5-465A-A3F1-5E9E41A2380E</ContractId>
+                           <PackListId>28b949b4-ced1-41b7-a79f-80a8824011a4</PackListId>
+                          <PackIDs>
+                            <Packid>ca26ac0f-e63a-45f9-8709-3bec8af35876</Packid>
+                            <Packid>073e6fa9-6eff-4d26-ada1-3895cb082e23</Packid>
+                          </PackIDs>
+                 </PackList>
+         </PackLists>
+
+         <DeviceConfiguration></DeviceConfiguration>
+         <Locations>
+                 <Location>
+                          <LocationId></LocationId>
+                          <Name></Name>
+                 </Location>
+         </Locations>
+         <InventoryItems>
+                 <Item>
+                          <InventoryId></InventoryId>
+                          <PrintDescription></PrintDescription>
+                          <DefalutLocationId></DefalutLocationId>
+                 </Item>
+         </InventoryItems>
+
+        <AvailableContracts>
+           <Contract>
+                   <ContractId></ContractId>
+                   <CustomerName></CustomerName>
+                  <ContractDescription></ContractDescription>
+                   <ContractNumber></ContractNumber>
+                   <IsTransfer></IsTransfer>
+                   <InventoryItems>
+                          <InventoryId></InventoryId>
+                          <InventoryId></InventoryId>
+                     <InventoryId></InventoryId>
+                     <InventoryId></InventoryId>
+                   </InventoryItems>
+          </Contract>
+         </AvailableContracts>     
+</Root>

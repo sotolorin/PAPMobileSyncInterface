@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AvailablePacks>
+    <Pack>
+      <PackNumber>7</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>5555.0000</GrossWeight>
+      <TareWeight>2500.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>d402dbd8-13c6-4362-89e9-375c49aa9dbc</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>8/25/2014 4:55:09 PM</DateCreated>
+      <DateClosed>8/25/2014 4:59:30 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>2</Status>
+      <InventoryId>bcef9d7d-07d7-40ac-96fc-eab7424ffeac</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>9</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>45.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>dc58612e-7197-45c4-a3f6-9d49a064e936</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>8/26/2014 10:05:08 AM</DateCreated>
+      <DateClosed>8/26/2014 10:05:29 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>bcef9d7d-07d7-40ac-96fc-eab7424ffeac</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>15</PackNumber>
+      <PackComment>Alternator</PackComment>
+      <GrossWeight>6542.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>61c36f93-fab6-490b-afbc-baa658ae8e10</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>8/29/2014 8:58:17 AM</DateCreated>
+      <DateClosed>8/29/2014 9:11:09 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>96b33ddb-acdd-4299-a2d7-750b81fc0963</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>1</PackNumber>
+      <PackComment>Flats</PackComment>
+      <GrossWeight>8000.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>2fb94756-4beb-420b-844a-c36a16ac4d93</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>8/1/2014 1:04:08 PM</DateCreated>
+      <DateClosed>8/1/2014 1:04:36 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>2</Status>
+      <InventoryId>9aa74421-510c-4ce5-b758-c3e175019b58</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>3</PackNumber>
+      <PackComment>Flats</PackComment>
+      <GrossWeight>5500.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>3ac83d1b-40c7-42be-a5b6-c95b903f804a</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>8/1/2014 2:17:16 PM</DateCreated>
+      <DateClosed>8/1/2014 2:17:08 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>2</Status>
+      <InventoryId>9aa74421-510c-4ce5-b758-c3e175019b58</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>10</PackNumber>
+      <PackComment>Brain Boxes</PackComment>
+      <GrossWeight>456.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>7b0f5ed3-c476-4494-8f45-d4f089f3eb84</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>8/26/2014 10:05:40 AM</DateCreated>
+      <DateClosed>8/26/2014 10:05:57 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>e648dd8d-9c4e-4c2e-bec6-bff8a5faf205</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>2</PackNumber>
+      <PackComment>Flats</PackComment>
+      <GrossWeight>8500.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>03c373ac-c49d-4ae6-a4a0-ee9ad25d1813</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>8/1/2014 1:05:22 PM</DateCreated>
+      <DateClosed>8/1/2014 1:06:30 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>2</Status>
+      <InventoryId>9aa74421-510c-4ce5-b758-c3e175019b58</InventoryId>
+    </Pack>
+  </AvailablePacks>
+  <PackLists>
+    <PackList>
+      <PackNumber>1</PackNumber>
+      <ContractId>705c67ab-0802-44d5-9a20-0cda53098cd4</ContractId>
+      <PackListId>acc2c65f-922e-4447-b96f-29e0c1af59f8</PackListId>
+      <PackIDs>
+        <PackIds>
+          <Packid>dc58612e-7197-45c4-a3f6-9d49a064e936</Packid>
+        </PackIds>
+      </PackIDs>
+    </PackList>
+  </PackLists>
+  <InventoryItems>
+    <Item>
+      <InventoryId>c45a9799-4b97-4258-992a-32503d321c9a</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Aluminum Rims</PrintDescription>
+    </Item>
+    <Item>
+      <InventoryId>dd7f3e49-81ea-454a-836c-3b4a9be2309d</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Batteries</PrintDescription>
+    </Item>
+    <Item>
+      <InventoryId>a4ea469e-0dea-4bd5-94d9-41b12bbf11b8</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Catalytic Converters</PrintDescription>
+    </Item>
+    <Item>
+      <InventoryId>96b33ddb-acdd-4299-a2d7-750b81fc0963</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Alternator</PrintDescription>
+    </Item>
+    <Item>
+      <InventoryId>7bdb5679-b68b-46ca-bb06-869724473ef7</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Radiators - Auto Brass</PrintDescription>
+    </Item>
+    <Item>
+      <InventoryId>7155c61c-beef-4af4-9b6b-bc37d2603297</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Aluminum Bumpers</PrintDescription>
+    </Item>
+    <Item>
+      <InventoryId>e648dd8d-9c4e-4c2e-bec6-bff8a5faf205</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Brain Boxes</PrintDescription>
+    </Item>
+    <Item>
+      <InventoryId>9aa74421-510c-4ce5-b758-c3e175019b58</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Flats</PrintDescription>
+    </Item>
+    <Item>
+      <InventoryId>bcef9d7d-07d7-40ac-96fc-eab7424ffeac</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>A/C Compressors</PrintDescription>
+    </Item>
+  </InventoryItems>
+  <AvailableContracts>
+    <Contract>
+      <ContractId>705c67ab-0802-44d5-9a20-0cda53098cd4</ContractId>
+      <CustomerName>Newell</CustomerName>
+      <ContractDescription>Everything Contract</ContractDescription>
+      <ContractNumber>1</ContractNumber>
+      <IsTransfer>False</IsTransfer>
+      <InventoryItems>
+        <Inventory>
+          <InventoryId>7155c61c-beef-4af4-9b6b-bc37d2603297</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>a4ea469e-0dea-4bd5-94d9-41b12bbf11b8</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>bcef9d7d-07d7-40ac-96fc-eab7424ffeac</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>9aa74421-510c-4ce5-b758-c3e175019b58</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>a379980e-12a4-42de-b931-237e84536606</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>e648dd8d-9c4e-4c2e-bec6-bff8a5faf205</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>96b33ddb-acdd-4299-a2d7-750b81fc0963</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>c45a9799-4b97-4258-992a-32503d321c9a</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>7bdb5679-b68b-46ca-bb06-869724473ef7</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>dd7f3e49-81ea-454a-836c-3b4a9be2309d</InventoryId>
+        </Inventory>
+      </InventoryItems>
+    </Contract>
+    <Contract>
+      <ContractId>91067371-71f6-4b37-a00d-246e0628b042</ContractId>
+      <CustomerName>Newell</CustomerName>
+      <ContractDescription>August Flats</ContractDescription>
+      <ContractNumber>1</ContractNumber>
+      <IsTransfer>False</IsTransfer>
+      <InventoryItems>
+        <Inventory>
+          <InventoryId>9aa74421-510c-4ce5-b758-c3e175019b58</InventoryId>
+        </Inventory>
+      </InventoryItems>
+    </Contract>
+    <Contract>
+      <ContractId>22f49be9-4ce0-4634-af97-da47a9037925</ContractId>
+      <CustomerName>Newell</CustomerName>
+      <ContractDescription>Aug Rollof</ContractDescription>
+      <ContractNumber>3</ContractNumber>
+      <IsTransfer>False</IsTransfer>
+      <InventoryItems>
+        <Inventory>
+          <InventoryId>c45a9799-4b97-4258-992a-32503d321c9a</InventoryId>
+        </Inventory>
+        <Inventory>
+          <InventoryId>c45a9799-4b97-4258-992a-32503d321c9a</InventoryId>
+        </Inventory>
+      </InventoryItems>
+    </Contract>
+    <Contract>
+      <ContractId>18fdad76-d726-4172-b60d-ff2cd5d8a7e4</ContractId>
+      <CustomerName>Newell</CustomerName>
+      <ContractDescription>test</ContractDescription>
+      <ContractNumber>2</ContractNumber>
+      <IsTransfer>False</IsTransfer>
+      <InventoryItems>
+        <Inventory>
+          <InventoryId>7155c61c-beef-4af4-9b6b-bc37d2603297</InventoryId>
+        </Inventory>
+      </InventoryItems>
+    </Contract>
+    <Contract>
+      <ContractId>9e75c80c-b964-4490-8840-68fdb0c5c951</ContractId>
+      <CustomerName>Carrier</CustomerName>
+      <ContractDescription>Packed Shipment</ContractDescription>
+      <ContractNumber>1</ContractNumber>
+      <IsTransfer>False</IsTransfer>
+      <InventoryItems />
+    </Contract>
+  </AvailableContracts>
+</Root>

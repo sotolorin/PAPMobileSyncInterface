@@ -1,0 +1,2304 @@
+<?xml version="1.0"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <YardId>d9b9691b-ccbb-49c7-b7f4-343975dd9f7e</YardId>
+  <UserId>91560f2c-c390-45b3-b0de-b64c2da255c5</UserId>
+  <DeviceConfiguration>
+    <ScaleRawReading>
+      <Reading>
+        <Value />
+        <Date />
+      </Reading>
+    </ScaleRawReading>
+    <DeviceProperties>
+      <DeviceProperty>
+        <Name>StoreWIFIName</Name>
+        <Value>1234</Value>
+      </DeviceProperty>
+      <DeviceProperty>
+        <Name>StoreWIFIPassword</Name>
+        <Value>pass</Value>
+      </DeviceProperty>
+      <DeviceProperty>
+        <Name>RowMin</Name>
+        <Value>601</Value>
+      </DeviceProperty>
+      <DeviceProperty>
+        <Name>RowMax</Name>
+        <Value>699</Value>
+      </DeviceProperty>
+    </DeviceProperties>
+    <DeviceID>Device1</DeviceID>
+  </DeviceConfiguration>
+  <UpdatedVins>
+    <MasterRowNum />
+    <Vins>
+      <Vin>
+        <VinId />
+        <RowNum />
+        <Packid />
+        <UpdateDate />
+      </Vin>
+    </Vins>
+  </UpdatedVins>
+  <Packs>
+    <Pack>
+      <PackNumber>0</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>6500.0000</GrossWeight>
+      <TareWeight>3000.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>fdd2301d-161c-424b-9466-030911497a7a</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:17 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:17 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>390</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>956.0000</GrossWeight>
+      <TareWeight>46.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>dabbc9de-3990-4bc9-9222-0422cc4dfb58</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/30/2014 11:13:21 AM</DateCreated>
+      <DateClosed>10/30/2014 11:13:00 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>0</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>0.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>c5d9f550-ebbd-4595-ac1c-0428a0ff9948</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:17 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:17 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>96</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>1324.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ab7a4197-e0f2-4f3c-98c6-079b6bd58e6b</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:00 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:01 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>0</PackNumber>
+      <PackComment>Alternator</PackComment>
+      <GrossWeight>0.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>48b21e8c-5273-40fb-863c-09c23c13f762</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:17 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:17 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>a379980e-12a4-42de-b931-237e84536606</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>99</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1358.0000</GrossWeight>
+      <TareWeight>108.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>1c835e0b-47b1-4114-a5df-0a73c338d0dc</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:07 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>391</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>965.0000</GrossWeight>
+      <TareWeight>56.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>b0434c9c-9b10-4ada-8960-0b50c5c1199a</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/30/2014 10:17:12 AM</DateCreated>
+      <DateClosed>10/30/2014 10:16:49 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>101</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1140.0000</GrossWeight>
+      <TareWeight>98.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>4b34ee72-a7d5-4f73-b359-0d1892456e65</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>168</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1352.0000</GrossWeight>
+      <TareWeight>996.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>727f6f5f-867b-4d03-b959-1042a50849d1</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:56 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>95</PackNumber>
+      <PackComment>Batteries</PackComment>
+      <GrossWeight>3036.0000</GrossWeight>
+      <TareWeight>32.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>f905d310-3a57-4a9e-9582-109d2f0afddd</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:55:53 PM</DateCreated>
+      <DateClosed>10/7/2014 2:55:53 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>e293bf57-5b7c-4381-a2f4-ab4b88e3b117</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>157</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1708.0000</GrossWeight>
+      <TareWeight>816.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>b4a6a284-df09-4f77-8889-1199762dee4d</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>384</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>524.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>2a65e9e5-30a4-40a9-96d5-18ad3bc12b64</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/29/2014 9:17:16 PM</DateCreated>
+      <DateClosed>10/29/2014 9:16:56 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>108</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1324.0000</GrossWeight>
+      <TareWeight>78.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>8b555a8b-d70c-403c-98a6-1a6031e87e85</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>190</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>2970.0000</GrossWeight>
+      <TareWeight>96.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>d11d4f35-ddd7-4fc3-aed2-1be2265ffca2</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>cc0691c4-1c1f-4c57-b62f-9f4e4094a052</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>180</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>818.0000</GrossWeight>
+      <TareWeight>62.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>1512d3c6-22e9-4a2d-9b9a-1d2c8e588fe5</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:58 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>150</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>3460.0000</GrossWeight>
+      <TareWeight>108.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>5969e593-91bf-4ba5-87fe-2070809dac84</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:56 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>285</PackNumber>
+      <PackComment>Starters</PackComment>
+      <GrossWeight>2500.0000</GrossWeight>
+      <TareWeight>100.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>8d24412f-0fb1-44a5-b3d5-21b726a6ce96</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/9/2014 11:32:46 AM</DateCreated>
+      <DateClosed>10/9/2014 11:32:47 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>cc0691c4-1c1f-4c57-b62f-9f4e4094a052</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>254</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1262.0000</GrossWeight>
+      <TareWeight>65.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>383f7a0a-093a-4f11-b16a-221e25832c7c</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:18 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>184</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>484.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>7c790a9a-4e23-4a6e-b109-23cbcd9add11</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:24:00 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>81</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>3176.0000</GrossWeight>
+      <TareWeight>102.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>b3bc709a-bf46-44de-a3bc-246c576919ec</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:00 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:01 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>250</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1288.0000</GrossWeight>
+      <TareWeight>72.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>cb158575-213a-499c-b1b0-24a16d88d915</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:15 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>252</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2284.0000</GrossWeight>
+      <TareWeight>1284.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>424704e3-cdec-4767-849c-269cad1138e7</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:17 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>0</PackNumber>
+      <PackComment>Heater Cores - Aluminum</PackComment>
+      <GrossWeight>0.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>20ecf07f-a5dd-4ddd-92b8-28c43a960caa</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:17 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:17 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b6f59e25-ff22-41d3-aa69-d1e95434c690</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>367</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>4500.0000</GrossWeight>
+      <TareWeight>3500.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>480bf42f-838d-424a-86ff-2b31288d9002</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/28/2014 9:05:34 AM</DateCreated>
+      <DateClosed>10/28/2014 9:05:34 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>177</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>960.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>8f453e78-0e4c-475f-94f3-2b6bbf4129fc</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:58 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>15</PackNumber>
+      <PackComment>Alternator</PackComment>
+      <GrossWeight>6500.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ef063e5a-e6d8-4076-8b82-2c9e98dcd09a</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/6/2014 11:30:22 AM</DateCreated>
+      <DateClosed>10/6/2014 11:30:22 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>a379980e-12a4-42de-b931-237e84536606</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>242</PackNumber>
+      <PackComment>Batteries</PackComment>
+      <GrossWeight>2726.0000</GrossWeight>
+      <TareWeight>50.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>20c39a19-234f-4e00-86f1-2ca0ed504bd2</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:16 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>e293bf57-5b7c-4381-a2f4-ab4b88e3b117</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>176</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>810.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>3b1072e7-67a2-4070-a842-30af59809951</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>171</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>812.0000</GrossWeight>
+      <TareWeight>66.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>bcb08819-ce5a-43a2-9e33-338424fd00fc</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:56 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>71</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>1100.0000</GrossWeight>
+      <TareWeight>75.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>5578fd5c-8240-46d9-b869-38966e625a15</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:00 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:01 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>77</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>952.0000</GrossWeight>
+      <TareWeight>58.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>e1516541-cae4-496d-a3ca-38a88451c62b</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 11:10:57 AM</DateCreated>
+      <DateClosed>10/7/2014 11:10:57 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>188</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>918.0000</GrossWeight>
+      <TareWeight>526.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>59f965d8-481a-45ba-8cd1-39a6a2209e4a</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>258</PackNumber>
+      <PackComment>Batteries</PackComment>
+      <GrossWeight>2556.0000</GrossWeight>
+      <TareWeight>50.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>d6566864-02a8-4944-9781-3e07592d1ddb</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:15 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>e293bf57-5b7c-4381-a2f4-ab4b88e3b117</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>189</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1730.0000</GrossWeight>
+      <TareWeight>939.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>3feb7822-35a4-4056-ac66-41abe0d2258e</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:58 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>160</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1424.0000</GrossWeight>
+      <TareWeight>798.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>0035f30c-ad84-4825-936b-420ca43eb9b1</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>0</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>0.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>a5329e1f-de2a-4ca6-80fa-43a6139e2891</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:56 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>178</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1540.0000</GrossWeight>
+      <TareWeight>872.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>28e9fe49-663e-47a1-a748-4772c7718ed9</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>378</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>965.0000</GrossWeight>
+      <TareWeight>46.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>defcc28a-a761-4cf6-b301-478abe42f942</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/29/2014 9:19:21 PM</DateCreated>
+      <DateClosed>10/29/2014 9:19:01 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>90</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>1782.0000</GrossWeight>
+      <TareWeight>862.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ea58ec91-d577-4b5e-8e26-479766bcbff9</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>161</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>728.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>f86873b0-74a1-44ef-a633-47a7da33683e</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>172</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>946.0000</GrossWeight>
+      <TareWeight>72.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>16d15e92-e1a4-474a-91e6-480174d12eab</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>97</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1288.0000</GrossWeight>
+      <TareWeight>104.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>aed83e37-6379-40fe-8e17-49af6b7d9890</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:05 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>0</PackNumber>
+      <PackComment>Starters</PackComment>
+      <GrossWeight>0.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>504e1a1e-afe1-4b44-b86c-4a25ceb488b4</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:17 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:17 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>cc0691c4-1c1f-4c57-b62f-9f4e4094a052</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>163</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>3496.0000</GrossWeight>
+      <TareWeight>2832.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>a3be3d34-13d5-4095-a5ac-4ac5b08b5b51</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>183</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>946.0000</GrossWeight>
+      <TareWeight>484.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>306b3f6c-8494-4ec3-8034-4aeeaf2c0ef5</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>113</PackNumber>
+      <PackComment>Heater Cores - Aluminum</PackComment>
+      <GrossWeight>726.0000</GrossWeight>
+      <TareWeight>80.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>e49617b8-f460-4ec1-8fdf-4e14c5aa18bd</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:00 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:01 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b6f59e25-ff22-41d3-aa69-d1e95434c690</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>91</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>932.0000</GrossWeight>
+      <TareWeight>42.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>348d4283-2006-4c79-b9ae-50f769986f22</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>112</PackNumber>
+      <PackComment>Heater Cores - Aluminum</PackComment>
+      <GrossWeight>742.0000</GrossWeight>
+      <TareWeight>76.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ac19c028-1c56-4aec-8337-518cf95fa3a1</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b6f59e25-ff22-41d3-aa69-d1e95434c690</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>304</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>1000.0000</GrossWeight>
+      <TareWeight>75.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>003872d4-da12-4c2e-8fe6-546ba5e01c0a</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:19:31 AM</DateCreated>
+      <DateClosed>10/13/2014 10:19:32 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>155</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>746.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>329707b8-1680-44a2-a3b2-547067004111</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:56 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>393</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>956.0000</GrossWeight>
+      <TareWeight>46.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>7f65efe4-04f2-471b-8ede-54e8d322013b</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/30/2014 8:44:57 AM</DateCreated>
+      <DateClosed>10/30/2014 8:44:32 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>48</PackNumber>
+      <PackComment>Brain Boxes</PackComment>
+      <GrossWeight>1500.0000</GrossWeight>
+      <TareWeight>50.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>0b9949be-f4f3-4754-880d-588e2454a2ec</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/6/2014 11:40:42 AM</DateCreated>
+      <DateClosed>10/6/2014 11:41:49 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b0ca2fb4-fb3c-4c45-ab1e-d62ac8929469</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>111</PackNumber>
+      <PackComment>Heater Cores - Aluminum</PackComment>
+      <GrossWeight>614.0000</GrossWeight>
+      <TareWeight>78.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>75d8f088-166d-49db-8801-5a27de25f584</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:00 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:01 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b6f59e25-ff22-41d3-aa69-d1e95434c690</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>156</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>880.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>02f693cc-5ea4-4da1-90a6-5c5c36f8ab69</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:56 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>389</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>1200.0000</GrossWeight>
+      <TareWeight>46.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>0154c21b-6873-4767-a5e0-6084cf0de4df</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/30/2014 10:15:16 AM</DateCreated>
+      <DateClosed>10/30/2014 10:14:53 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>110</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2446.0000</GrossWeight>
+      <TareWeight>1100.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>0737e668-0246-4e20-9cff-615981739f46</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:07 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>30</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>500.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>6e119912-0c2d-449a-bd6d-63ba74a0f7b3</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>9/12/2014 11:56:03 AM</DateCreated>
+      <DateClosed>9/12/2014 11:56:03 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>76a8f050-1609-43c6-9d4c-09daffc6a729</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>151</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>2772.0000</GrossWeight>
+      <TareWeight>74.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>456ccab0-7dec-48b3-9da9-63dce1af7fe0</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:24:00 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>109</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1598.0000</GrossWeight>
+      <TareWeight>722.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>b752a1e6-1a2f-4866-addc-643928d8c97d</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>84</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>922.0000</GrossWeight>
+      <TareWeight>62.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>4a8ed70e-cc73-45f7-b631-6468628add2c</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:05 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>236</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>2898.0000</GrossWeight>
+      <TareWeight>65.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>17887643-71b2-4383-82ab-6491bccfb8d2</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:17 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>107</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2266.0000</GrossWeight>
+      <TareWeight>1300.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>f7b96370-a7d6-4d88-bad5-682c89caef12</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:07 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>185</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>910.0000</GrossWeight>
+      <TareWeight>528.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>c8364669-72c6-41e1-8fc6-692742b4da38</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>81</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>3174.0000</GrossWeight>
+      <TareWeight>102.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>99043ed9-864f-4186-87fc-6a44a2ac334e</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:55:53 PM</DateCreated>
+      <DateClosed>10/7/2014 2:55:53 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>394</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>1300.0000</GrossWeight>
+      <TareWeight>56.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>49508a7b-1525-4cc4-8d27-6b794a9a353a</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/30/2014 11:10:02 AM</DateCreated>
+      <DateClosed>10/30/2014 11:09:41 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>175</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1666.0000</GrossWeight>
+      <TareWeight>1006.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>edcf7a15-f9c3-46ee-9e78-70f9a49eb556</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>102</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2272.0000</GrossWeight>
+      <TareWeight>1172.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>e7394a61-c40a-432a-9b71-7370b32f4101</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:07 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>240</PackNumber>
+      <PackComment>Batteries</PackComment>
+      <GrossWeight>2578.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>f3de2b1a-89ed-464f-95e6-74017061d75e</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:18 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>e293bf57-5b7c-4381-a2f4-ab4b88e3b117</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>153</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>2040.0000</GrossWeight>
+      <TareWeight>65.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>78863d2b-3297-453f-8b40-74b938713e39</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:58 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>239</PackNumber>
+      <PackComment>Batteries</PackComment>
+      <GrossWeight>2604.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>d763b40a-9b35-49f9-a922-759a21b07eec</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:17 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>e293bf57-5b7c-4381-a2f4-ab4b88e3b117</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>92</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>910.0000</GrossWeight>
+      <TareWeight>38.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>fe4d7ff3-5f05-4b72-8666-799a6adf3a1f</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:07 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>395</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>1256.0000</GrossWeight>
+      <TareWeight>55.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>594b3a24-8c43-4000-8027-79da7237b2ae</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/30/2014 11:13:21 AM</DateCreated>
+      <DateClosed>10/30/2014 11:13:00 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>0</PackNumber>
+      <PackComment>Batteries</PackComment>
+      <GrossWeight>0.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>bb0fb6a2-63c5-4922-a665-7dd5d2a58b04</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:17 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:17 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>e293bf57-5b7c-4381-a2f4-ab4b88e3b117</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>85</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>998.0000</GrossWeight>
+      <TareWeight>66.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>1978874a-ecd1-4285-98bb-805984dbd924</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:05 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>255</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2434.0000</GrossWeight>
+      <TareWeight>1358.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>4a953b7b-a208-4df2-a4f0-8188bba9f77d</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:17 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>0</PackNumber>
+      <PackComment>Brain Boxes</PackComment>
+      <GrossWeight>0.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>562ab08d-20b3-4cf0-be99-826d67e7f738</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:17 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:17 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b0ca2fb4-fb3c-4c45-ab1e-d62ac8929469</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>154</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>804.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>1458878c-4b1a-4010-8b29-84ce13b5baaa</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>93</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>1862.0000</GrossWeight>
+      <TareWeight>910.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>4ed2043a-17ad-4caf-8a1f-850ff3fb0296</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>256</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1348.0000</GrossWeight>
+      <TareWeight>70.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>b8fca6be-c037-40d8-a04e-85bfcba99e43</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:15 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>83</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>980.0000</GrossWeight>
+      <TareWeight>62.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>26b371f0-eeeb-4748-9dbf-8ad0024341e1</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:05 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>373</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>580.0000</GrossWeight>
+      <TareWeight>25.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>e3dcfe7f-3b29-4d4b-9982-8f7d58ea7cf5</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/29/2014 9:18:48 PM</DateCreated>
+      <DateClosed>10/29/2014 9:18:28 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>187</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>466.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>2203240d-e1ac-4246-95b4-90413fc1d18c</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>100</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2346.0000</GrossWeight>
+      <TareWeight>1310.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>88db1f3b-ef7b-4ab7-b205-9133112b640f</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:07 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b6f59e25-ff22-41d3-aa69-d1e95434c690</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>249</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1216.0000</GrossWeight>
+      <TareWeight>72.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>78dcfd70-45db-4446-9028-91c6868d92d5</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:16 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>247</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2652.0000</GrossWeight>
+      <TareWeight>1327.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>c7a344ed-3043-4679-8447-9415e2b5573e</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:17 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>149</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>2486.0000</GrossWeight>
+      <TareWeight>96.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>c50e8efe-ac23-4a9e-b0b7-9438d16e3638</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>166</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1574.0000</GrossWeight>
+      <TareWeight>760.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>83d3b289-aa94-4ae2-806e-973430cacd4c</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>88</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>1948.0000</GrossWeight>
+      <TareWeight>998.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>dfe3d4e8-bb93-43a8-bcc6-9816fb0426c4</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>95</PackNumber>
+      <PackComment>Batteries</PackComment>
+      <GrossWeight>3039.0000</GrossWeight>
+      <TareWeight>32.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>dc59e5da-56c7-4c5c-bf5a-9b4864180e11</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:00 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:01 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>e293bf57-5b7c-4381-a2f4-ab4b88e3b117</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>82</PackNumber>
+      <PackComment>Alternator</PackComment>
+      <GrossWeight>2988.0000</GrossWeight>
+      <TareWeight>96.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>618ddfdd-0b10-4a52-85e2-9cdd29ea2cf5</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:00 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:01 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>a379980e-12a4-42de-b931-237e84536606</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>246</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>960.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>de58c035-33b9-4eb4-8db2-9e085b37133f</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:17 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>162</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>796.0000</GrossWeight>
+      <TareWeight>65.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>70572dad-7c6b-4360-a70d-a45214a26f34</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:56 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>245</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>1868.0000</GrossWeight>
+      <TareWeight>1028.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>93d40fa4-54ad-406f-902a-a52c8b971af1</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:15 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>86</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>1942.0000</GrossWeight>
+      <TareWeight>998.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>5015496c-cfc0-4ef3-8a09-a6bfcab0b4f3</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:07 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>111</PackNumber>
+      <PackComment>Heater Cores - Aluminum</PackComment>
+      <GrossWeight>1350.0000</GrossWeight>
+      <TareWeight>750.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>f691cee2-3669-455a-8302-a956de1ecd30</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:55:53 PM</DateCreated>
+      <DateClosed>10/7/2014 2:55:53 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b6f59e25-ff22-41d3-aa69-d1e95434c690</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>244</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>2408.0000</GrossWeight>
+      <TareWeight>1203.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>486c025e-7cde-411d-8285-aa7928fbc8ee</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:17 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>114</PackNumber>
+      <PackComment>Heater Cores - Aluminum</PackComment>
+      <GrossWeight>740.0000</GrossWeight>
+      <TareWeight>66.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>e1074540-5e64-446f-9ef5-af99868abba8</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:00 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:01 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b6f59e25-ff22-41d3-aa69-d1e95434c690</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>412</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>98.0000</GrossWeight>
+      <TareWeight>41.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>8607a467-8888-4322-83fa-b06ba74f952a</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>11/3/2014 3:40:26 PM</DateCreated>
+      <DateClosed>11/3/2014 3:39:58 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>115</PackNumber>
+      <PackComment>Starters</PackComment>
+      <GrossWeight>2902.0000</GrossWeight>
+      <TareWeight>86.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>5e0ec0e3-dc41-466c-af8a-b0af687d80ac</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:00 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:01 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>cc0691c4-1c1f-4c57-b62f-9f4e4094a052</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>82</PackNumber>
+      <PackComment>Alternator</PackComment>
+      <GrossWeight>2988.0000</GrossWeight>
+      <TareWeight>96.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>cf12a1a6-acdd-45bb-a77d-b13c01059081</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:55:53 PM</DateCreated>
+      <DateClosed>10/7/2014 2:55:53 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>a379980e-12a4-42de-b931-237e84536606</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>241</PackNumber>
+      <PackComment>Batteries</PackComment>
+      <GrossWeight>2660.0000</GrossWeight>
+      <TareWeight>50.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>05295cc7-b549-41c9-8ead-b77e8b8d1d5a</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:16 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>e293bf57-5b7c-4381-a2f4-ab4b88e3b117</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>237</PackNumber>
+      <PackComment>Alternator</PackComment>
+      <GrossWeight>3120.0000</GrossWeight>
+      <TareWeight>70.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>93e77f5d-940a-485a-90d7-bae183005a27</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:17 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>a379980e-12a4-42de-b931-237e84536606</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>413</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1000.0000</GrossWeight>
+      <TareWeight>46.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>e3050614-a137-474b-9151-bc763cf054c9</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>11/3/2014 3:40:56 PM</DateCreated>
+      <DateClosed>11/3/2014 3:40:28 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>238</PackNumber>
+      <PackComment>Alternator</PackComment>
+      <GrossWeight>3466.0000</GrossWeight>
+      <TareWeight>67.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>a2cf3a91-ccf2-4918-841f-c331a407a0fe</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:16 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>a379980e-12a4-42de-b931-237e84536606</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>186</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>468.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>af7fff86-b970-4091-bf92-c67e4da06ba7</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>173</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>852.0000</GrossWeight>
+      <TareWeight>76.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>96a74dde-2626-46e8-8416-ce12611527ac</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>43</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>6000.0000</GrossWeight>
+      <TareWeight>5000.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ec38bb72-3091-4494-9b40-d1d3b347a891</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:19:46 AM</DateCreated>
+      <DateClosed>10/13/2014 10:19:46 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>98</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2366.0000</GrossWeight>
+      <TareWeight>1288.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>f4b75605-b6ac-4cc8-a29e-d1d63164f343</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>152</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>2110.0000</GrossWeight>
+      <TareWeight>50.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>14c77b80-0332-45fe-9363-d3d8242e0411</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:58 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>e293bf57-5b7c-4381-a2f4-ab4b88e3b117</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>73</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>1224.0000</GrossWeight>
+      <TareWeight>116.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ae70fe64-d13e-46a4-a3c3-d52731656efb</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 10:37:15 AM</DateCreated>
+      <DateClosed>10/7/2014 10:39:39 AM</DateClosed>
+      <Quantity>112.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>408</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>6522.0000</GrossWeight>
+      <TareWeight>56.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>3d994187-a683-4d6b-96f3-d5514c70141c</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>11/3/2014 12:41:36 PM</DateCreated>
+      <DateClosed>11/3/2014 12:41:08 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>159</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>994.0000</GrossWeight>
+      <TareWeight>95.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>f6777e7c-f1cc-414d-8dd7-d5ae626ff3b1</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:24:00 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>396</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>1000.0000</GrossWeight>
+      <TareWeight>23.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>68fa84b0-aae9-4025-8c10-d6bdba197af6</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/30/2014 10:14:55 AM</DateCreated>
+      <DateClosed>10/30/2014 10:14:32 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>89</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>836.0000</GrossWeight>
+      <TareWeight>62.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>64aed68d-f85f-4f69-bbf1-d74751b06992</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:07 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>174</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1600.0000</GrossWeight>
+      <TareWeight>914.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>6571d5b9-87f7-424a-893b-d8ad13e24eda</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:24:00 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>253</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2660.0000</GrossWeight>
+      <TareWeight>1401.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>42a16523-de2f-49df-90a5-de1ec4be3f1d</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:18 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>164</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1506.0000</GrossWeight>
+      <TareWeight>825.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>498dadfb-7901-41a2-b6d5-df13052e6de6</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>29</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>25.0000</GrossWeight>
+      <TareWeight>0.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>6db0fa08-3b29-4245-99c3-dfafc81343a2</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>9/12/2014 11:56:03 AM</DateCreated>
+      <DateClosed>9/12/2014 11:56:03 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>72</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>1322.0000</GrossWeight>
+      <TareWeight>1000.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>31c3ff38-d8a1-42b3-94ae-e0d67a01bbfe</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:55:53 PM</DateCreated>
+      <DateClosed>10/7/2014 2:55:53 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>116</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>1822.0000</GrossWeight>
+      <TareWeight>922.0000</TareWeight>
+      <ScaleGrossWeight>1822.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>9195b1ab-7e6f-4419-95f0-e2f009164839</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 1:27:24 PM</DateCreated>
+      <DateClosed>10/7/2014 1:27:38 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>d71fa887-58a0-4501-98b5-7588c7e5e145</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>251</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1240.0000</GrossWeight>
+      <TareWeight>65.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>646b9e04-7483-4117-b619-e40bef8cb94d</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:15 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>158</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>820.0000</GrossWeight>
+      <TareWeight>72.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>b29f292d-9675-43d6-9d89-e6ba7b3ed243</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:58 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>103</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1142.0000</GrossWeight>
+      <TareWeight>92.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>5725140c-a58b-443e-9bac-e85c3925a39d</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>165</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1866.0000</GrossWeight>
+      <TareWeight>1049.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>3dbbc0be-db2b-4be1-b448-e8e4f10a986e</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:57 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>305</PackNumber>
+      <PackComment>Alternator</PackComment>
+      <GrossWeight>4000.0000</GrossWeight>
+      <TareWeight>75.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>4482c382-f67d-4516-95e4-e95e27dea176</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:19:07 AM</DateCreated>
+      <DateClosed>10/13/2014 10:19:08 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>a379980e-12a4-42de-b931-237e84536606</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>113</PackNumber>
+      <PackComment>Heater Cores - Aluminum</PackComment>
+      <GrossWeight>3730.0000</GrossWeight>
+      <TareWeight>2588.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>e579427a-ef0e-4984-b31a-eb33e880030b</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:55:53 PM</DateCreated>
+      <DateClosed>10/7/2014 2:55:53 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b6f59e25-ff22-41d3-aa69-d1e95434c690</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>182</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1250.0000</GrossWeight>
+      <TareWeight>866.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ee570422-a715-460b-bbde-ec0ef9049ea8</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:58 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>106</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1276.0000</GrossWeight>
+      <TareWeight>78.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>aea6bd1c-1d6a-43df-b21b-ec83795b4f02</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:05 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>257</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>1150.0000</GrossWeight>
+      <TareWeight>62.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>88df3378-873a-4762-9f0f-ecf097ca79ed</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:15 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>44</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>2900.0000</GrossWeight>
+      <TareWeight>10.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>7d01e327-88c7-4743-9156-f020d64b07ea</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/6/2014 11:30:22 AM</DateCreated>
+      <DateClosed>10/6/2014 11:30:22 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>105</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2568.0000</GrossWeight>
+      <TareWeight>1000.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>7daee051-6682-468c-a478-f093fc790dea</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:06 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>169</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>876.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>32b5b3f6-ed0e-4ea2-9ab4-f48d67456ecc</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:58 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>104</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2290.0000</GrossWeight>
+      <TareWeight>1022.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ed0bef8f-77a7-43a3-a609-f4fb8547102b</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:07 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>243</PackNumber>
+      <PackComment>Brain Boxes</PackComment>
+      <GrossWeight>1306.0000</GrossWeight>
+      <TareWeight>62.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>fb57c2af-4fbb-4382-89a1-f52259519191</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:16 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b0ca2fb4-fb3c-4c45-ab1e-d62ac8929469</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>235</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>2966.0000</GrossWeight>
+      <TareWeight>58.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>872bb34a-34b6-4a1b-afce-f7bb0d63aa27</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:16 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>181</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1614.0000</GrossWeight>
+      <TareWeight>800.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>36f99e2c-bed1-41d1-aabf-fa2d370b3867</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>179</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>1626.0000</GrossWeight>
+      <TareWeight>884.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ab98fc97-ddc3-4a0b-b373-fa803a0be8b9</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:59 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>76</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>1052.0000</GrossWeight>
+      <TareWeight>74.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ddc3fff0-da4a-4117-a03a-fb61e4e61672</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 11:10:57 AM</DateCreated>
+      <DateClosed>10/7/2014 11:10:57 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>167</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>676.0000</GrossWeight>
+      <TareWeight>74.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>6c092fd6-91a7-4b6d-b599-fbb83076a315</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:56 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>388</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>1000.0000</GrossWeight>
+      <TareWeight>46.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>4331e69b-ff47-45ca-a932-fe9ed5d57285</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/30/2014 11:12:09 AM</DateCreated>
+      <DateClosed>10/30/2014 11:11:48 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>72</PackNumber>
+      <PackComment>Catalytic Converters</PackComment>
+      <GrossWeight>5000.0000</GrossWeight>
+      <TareWeight>1000.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>e8ec9b70-826e-4c12-88c9-fecece2d71d4</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/13/2014 10:20:00 AM</DateCreated>
+      <DateClosed>10/13/2014 10:20:01 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>248</PackNumber>
+      <PackComment>Harness Wire Copper</PackComment>
+      <GrossWeight>2456.0000</GrossWeight>
+      <TareWeight>1306.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>ec70ccfe-181c-425c-87b7-feeb38d25e8f</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 1:55:15 PM</DateCreated>
+      <DateClosed>10/8/2014 1:55:17 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>87</PackNumber>
+      <PackComment>Aluminum Rims</PackComment>
+      <GrossWeight>998.0000</GrossWeight>
+      <TareWeight>52.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>92ddd3d6-95df-46c4-b269-ff2a93398feb</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/7/2014 2:28:05 PM</DateCreated>
+      <DateClosed>10/7/2014 2:28:07 PM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+    </Pack>
+    <Pack>
+      <PackNumber>170</PackNumber>
+      <PackComment>A/C Compressors</PackComment>
+      <GrossWeight>824.0000</GrossWeight>
+      <TareWeight>60.0000</TareWeight>
+      <ScaleGrossWeight>0.0000</ScaleGrossWeight>
+      <ScaleTareWeight>0.0000</ScaleTareWeight>
+      <PackId>3686bb6d-c754-43b1-8561-ffefea19c98b</PackId>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <DateCreated>10/8/2014 10:23:58 AM</DateCreated>
+      <DateClosed>10/8/2014 10:23:59 AM</DateClosed>
+      <Quantity>0.00</Quantity>
+      <Status>0</Status>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+    </Pack>
+  </Packs>
+  <PackLists />
+  <InventoryItems>
+    <Item>
+      <Code>Aluminum Rims</Code>
+      <InventoryId>b1cd6939-3beb-4671-984f-078fae41cde5</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Aluminum Rims</PrintDescription>
+    </Item>
+    <Item>
+      <Code>RAAUBR</Code>
+      <InventoryId>76a8f050-1609-43c6-9d4c-09daffc6a729</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Radiators - Auto Brass</PrintDescription>
+    </Item>
+    <Item>
+      <Code>FL</Code>
+      <InventoryId>100e5da6-e02d-448d-b58f-1e0a43b7c82c</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Flats</PrintDescription>
+    </Item>
+    <Item>
+      <Code>ALT</Code>
+      <InventoryId>a379980e-12a4-42de-b931-237e84536606</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Alternators</PrintDescription>
+    </Item>
+    <Item>
+      <Code>ALBOX</Code>
+      <InventoryId>d6d35169-829e-4daf-b457-28fa2eddd5ad</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Aluminum Bumpers</PrintDescription>
+    </Item>
+    <Item>
+      <Code>17</Code>
+      <InventoryId>950cb35e-4ee6-4e16-870f-65495548f9b6</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Copper Chops B</PrintDescription>
+    </Item>
+    <Item>
+      <Code>8</Code>
+      <InventoryId>2ea5f032-ce79-4612-80bb-71acb85338d9</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Catalytic Converters</PrintDescription>
+    </Item>
+    <Item>
+      <Code>ALURIMS</Code>
+      <InventoryId>d71fa887-58a0-4501-98b5-7588c7e5e145</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Aluminum Rims</PrintDescription>
+    </Item>
+    <Item>
+      <Code>14</Code>
+      <InventoryId>c55af086-71a0-425f-8201-9c2622293e35</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Harness Wire Copper</PrintDescription>
+    </Item>
+    <Item>
+      <Code>15</Code>
+      <InventoryId>cc0691c4-1c1f-4c57-b62f-9f4e4094a052</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Starters</PrintDescription>
+    </Item>
+    <Item>
+      <Code>ACCOMP</Code>
+      <InventoryId>1bcdf7bb-3061-459a-a8df-a74b7b344431</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>A/C Compressors</PrintDescription>
+    </Item>
+    <Item>
+      <Code>BATT</Code>
+      <InventoryId>e293bf57-5b7c-4381-a2f4-ab4b88e3b117</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Batteries</PrintDescription>
+    </Item>
+    <Item>
+      <Code>16</Code>
+      <InventoryId>f0193b58-edbd-42d9-9841-bb11d67dd614</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Copper Chops A</PrintDescription>
+    </Item>
+    <Item>
+      <Code>11</Code>
+      <InventoryId>b6f59e25-ff22-41d3-aa69-d1e95434c690</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Heater Cores - Aluminum</PrintDescription>
+    </Item>
+    <Item>
+      <Code>BRABOX</Code>
+      <InventoryId>b0ca2fb4-fb3c-4c45-ab1e-d62ac8929469</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Brain Boxes</PrintDescription>
+    </Item>
+    <Item>
+      <Code>18</Code>
+      <InventoryId>ad6fd2c2-eca6-4ebd-9326-fbd3f8c16f5e</InventoryId>
+      <DefaultLocationId />
+      <PrintDescription>Copper Fines</PrintDescription>
+    </Item>
+  </InventoryItems>
+</Root>
